@@ -23,6 +23,10 @@ and use different shapes to pass through the obstacle.
 - python 3.11
 - pygame 2.5.0
 
+flaw chat
+
+![flaw](img/flaw.png)
+
 ## How to play?
 
 You have three choose:
